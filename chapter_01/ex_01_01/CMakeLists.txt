@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.28)
 
-project(CH01_EX01)
+project(CH01_EX01_01)
 
 set(CMAKE_C_STANDARD 11)
 
