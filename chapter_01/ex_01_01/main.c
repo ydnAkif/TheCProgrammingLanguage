@@ -1,5 +1,5 @@
 /*
- * Exercise 1-1. Run the "hello, world" program on your system. Experiment with
+ * Exercise 01-01. Run the "hello, world" program on your system. Experiment with
  * leaving parts of the program, to see what error messages you get.
  *
  * Created by Akif AYDIN on 6.07.2024.

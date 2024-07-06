@@ -4,5 +4,9 @@ project(TheCProgrammingLanguage C)
 
 set(CMAKE_C_STANDARD 11)
 
+
+#Chapter 01
 add_subdirectory(chapter_01/ex_01_01)
 add_subdirectory(chapter_01/ex_01_02)
+add_subdirectory(chapter_01/ex_01_03)
+add_subdirectory(chapter_01/ex_01_04)
